@@ -7,11 +7,11 @@ html, body {
 
 .object {
     position: relative;
-    width: 60px;
-    height: 60px;
-    border-radius: 100%;
-    background-color: green;
-    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    background: url("../img/Pepega-meme.png");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
     top: 0;
     left: 0;
 }
